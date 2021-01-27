@@ -1,0 +1,27 @@
+{
+  "name": "oscaljs",
+  "version": "0.0.1",
+  "description": "A proof of concept of building OSCAL utility classes using the official NIST OSCAL JSON Schema.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohch4/oscaljs.git"
+  },
+  "keywords": [
+    "oscal",
+    "security",
+    "security-automation"
+  ],
+  "author": "Alexander Stein <astein@flexion.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tohch4/oscaljs/issues"
+  },
+  "homepage": "https://github.com/tohch4/oscaljs#readme",
+  "devDependencies": {
+    "json-schema-to-typescript": "^10.1.3"
+  }
+}
